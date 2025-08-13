@@ -1,0 +1,163 @@
+[
+  {
+    "order": 1,
+    "kanji": "亜",
+    "traditional": "亞",
+    "korean_reading": "아",
+    "meaning": "버금, 다음",
+    "examples": ["亜流", "亜麻", "亜熱帯"]
+  },
+  {
+    "order": 2,
+    "kanji": "哀",
+    "traditional": null,
+    "korean_reading": "애",
+    "meaning": "슬플",
+    "examples": ["哀愁", "哀願", "悲哀"]
+  },
+  {
+    "order": 3,
+    "kanji": "挨",
+    "traditional": null,
+    "korean_reading": "애",
+    "meaning": "차례로, 순서대로",
+    "examples": ["挨拶"]
+  },
+  {
+    "order": 4,
+    "kanji": "愛",
+    "traditional": null,
+    "korean_reading": "애",
+    "meaning": "사랑",
+    "examples": ["愛情", "愛読", "恋愛"]
+  },
+  {
+    "order": 5,
+    "kanji": "曖",
+    "traditional": null,
+    "korean_reading": "애",
+    "meaning": "어둡다, 분명하지 않다",
+    "examples": ["曖昧"]
+  },
+  {
+    "order": 6,
+    "kanji": "悪",
+    "traditional": "惡",
+    "korean_reading": "악",
+    "meaning": "나쁠, 악할",
+    "examples": ["悪事", "悪意", "醜悪"]
+  },
+  {
+    "order": 7,
+    "kanji": "握",
+    "traditional": null,
+    "korean_reading": "악",
+    "meaning": "쥘, 잡을",
+    "examples": ["握手", "握力", "掌握"]
+  },
+  {
+    "order": 8,
+    "kanji": "圧",
+    "traditional": "壓",
+    "korean_reading": "압",
+    "meaning": "누를",
+    "examples": ["圧力", "圧迫", "気圧"]
+  },
+  {
+    "order": 9,
+    "kanji": "扱",
+    "traditional": null,
+    "korean_reading": "급",
+    "meaning": "다룰",
+    "examples": ["扱う", "扱い", "客扱い"]
+  },
+  {
+    "order": 10,
+    "kanji": "宛",
+    "traditional": null,
+    "korean_reading": "완",
+    "meaning": "마치, 마치다",
+    "examples": ["宛てる", "宛先"]
+  },
+  {
+    "order": 11,
+    "kanji": "嵐",
+    "traditional": null,
+    "korean_reading": "람",
+    "meaning": "바람, 폭풍",
+    "examples": ["嵐", "砂嵐"]
+  },
+  {
+    "order": 12,
+    "kanji": "安",
+    "traditional": null,
+    "korean_reading": "안",
+    "meaning": "편안할",
+    "examples": ["安全", "安価", "不安"]
+  },
+  {
+    "order": 13,
+    "kanji": "案",
+    "traditional": null,
+    "korean_reading": "안",
+    "meaning": "책상, 안건",
+    "examples": ["案文", "案内", "新案"]
+  },
+  {
+    "order": 14,
+    "kanji": "暗",
+    "traditional": null,
+    "korean_reading": "암",
+    "meaning": "어둘",
+    "examples": ["暗示", "暗愚", "明暗"]
+  },
+  {
+    "order": 15,
+    "kanji": "以",
+    "traditional": null,
+    "korean_reading": "이",
+    "meaning": "써, 가지고",
+    "examples": ["以上", "以内", "以後"]
+  },
+  {
+    "order": 16,
+    "kanji": "衣",
+    "traditional": null,
+    "korean_reading": "의",
+    "meaning": "옷",
+    "examples": ["衣服", "衣食住", "作業衣"]
+  },
+  {
+    "order": 17,
+    "kanji": "位",
+    "traditional": null,
+    "korean_reading": "위",
+    "meaning": "자리, 지위",
+    "examples": ["位置", "第一位", "各位"]
+  },
+  {
+    "order": 18,
+    "kanji": "囲",
+    "traditional": "圍",
+    "korean_reading": "위",
+    "meaning": "둘러쌀",
+    "examples": ["囲碁", "包囲", "範囲"]
+  },
+  {
+    "order": 19,
+    "kanji": "医",
+    "traditional": "醫",
+    "korean_reading": "의",
+    "meaning": "의사, 치료할",
+    "examples": ["医学", "医療", "名医"]
+  },
+  {
+    "order": 20,
+    "kanji": "依",
+    "traditional": null,
+    "korean_reading": "의",
+    "meaning": "의지할",
+    "examples": ["依頼", "依拠", "依然"]
+  }
+]
+
