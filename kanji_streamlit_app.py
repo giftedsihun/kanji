@@ -225,12 +225,8 @@ def show_quiz():
                     placeholder="예: 애",
                     key="korean_reading_input"
                 )
-                st.session_state.user_japanese_reading = st.text_input(
-                    "일본 음을 입력하세요 (여러 개일 경우 쉼표로 구분):",
-                    value=st.session_state.user_japanese_reading,
-                    placeholder="例: アイ, あ-る",
-                    key="japanese_reading_input"
-                )
+                # 일본 음 입력 필드 삭제됨
+
             
             # 답안 확인 버튼
             if st.button("답안 확인", use_container_width=True, type="primary"):
